@@ -10,7 +10,7 @@
 .header__logo{
     display: flex;
     align-items: center;
-    color: rgb(243, 117, 21);
+    color: #ff9f00;
     margin: 0 25px;
 }
 .header__logoImage{
@@ -37,7 +37,7 @@
 .header__searchIcon{
     padding: 5px;
     height: 22px !important;
-    background-color: rgb(243, 117, 21) ;
+    background-color: #ff9f00 ;
 }
 .header__nav{
     display: flex;
